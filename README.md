@@ -28,8 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/-"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="-" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamrjk&show_icons=true&locale=en&layout=compact" alt="prathamrjk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prathamesh-Kulkarni01&show_icons=true&locale=en&layout=compact" alt="Prathamesh-Kulkarni01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamrjk&show_icons=true&locale=en" alt="prathamrjk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Kulkarni01&show_icons=true&locale=en" alt="Prathamesh-Kulkarni01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamrjk&" alt="prathamrjk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-Kulkarni01&" alt="Prathamesh-Kulkarni01" /></p>
