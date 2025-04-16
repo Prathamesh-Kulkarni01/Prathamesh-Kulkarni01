@@ -52,18 +52,12 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Kulkarni01&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Kulkarni01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-Kulkarni01&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Kulkarni01&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+
 
 ---
-
-<h3 align="center">💡 Fun Projects & Goals</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Campus-Buddy;Learning+React+and+Java;Solving+DSA+daily+on+LeetCode;Creating+clean+UI%2FUX;Open+for+collaborations!+✨" />
-</p>
