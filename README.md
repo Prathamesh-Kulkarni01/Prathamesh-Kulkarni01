@@ -15,7 +15,7 @@
 
 ---
 
-- 🔭 Currently building: **Campus-Buddy**
+- 🔭 Currently building: **Potoba Pos**
 - 🌱 Learning: **Java, DSA & React**
 - 📫 Reach me at: [prathameshkulkarni710@gmail.com](mailto:prathameshkulkarni710@gmail.com)
 - ⚡ Fun Fact: *I think I’m funny... sometimes 😄*
